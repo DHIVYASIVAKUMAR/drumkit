@@ -1,0 +1,92 @@
+ /******BODY*********/
+ #body-portion {
+     background-color: rgb(223, 84, 84);
+     text-align: center;
+     margin-bottom: 0em;
+     margin-left: 0em;
+     margin-right: 0em;
+
+ }
+
+ .heading {
+
+     font-family: 'Galada', cursive;
+     font-weight: 100;
+     font-size: 70;
+     padding-top: 2rem;
+     color: #7e0326;
+ }
+
+ /******BUTTON*********/
+
+ .drum-div {
+     padding-bottom: 6rem;
+ }
+
+ .drum {
+     background-color: rgb(228, 157, 157);
+     outline: none;
+     border: 10px solid rgb(230, 108, 108);
+     font-size: 4rem;
+     font-family: 'Arvo', cursive;
+
+     font-weight: 900;
+     color: rgb(202, 1, 85);
+     text-shadow: 3px 0 #DBEDF3;
+     border-radius: 15px;
+
+     width: 150px;
+     height: 150px;
+     text-align: center;
+ }
+
+ .w {
+     background-image: url("images/tom1.png");
+ }
+
+ .a {
+     background-image: url("images/tom2.png");
+ }
+
+ .s {
+     background-image: url("images/tom3.png");
+ }
+
+ .d {
+     background-image: url("images/tom4.png");
+ }
+
+ .j {
+     background-image: url("images/snare.png");
+ }
+
+ .k {
+     background-image: url("images/crash.png");
+ }
+
+ .l {
+     background-image: url("images/kick.png");
+ }
+
+ .pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+ }
+
+
+
+
+
+
+ /******FOOTER*********/
+ .footer {
+     background-color: rgb(223, 133, 117);
+     font-family: sans-serif;
+     padding-bottom: 2px;
+ }
+
+ .foot {
+     padding-bottom: 1rem;
+     padding-top: 2rem;
+     color: #7e0326;
+ }
